@@ -1,0 +1,21 @@
+.kk_widget_tag_cloud .kk_tagcloud {
+    line-height: 1.5em;
+}
+
+.kk_widget_tag_cloud .kk_tagcloud a {
+    display: inline-block;
+	margin: 3px 2px;
+    padding: 0 11px;
+	border-radius: 3px;
+    -webkit-border-radius: 3px;
+	background: #eee;
+    color: #279090;
+    font-size: 12px !important;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.kk_widget_tag_cloud .kk_tagcloud a:hover {
+    color: #f2f2f2;
+    background: #404040;
+}

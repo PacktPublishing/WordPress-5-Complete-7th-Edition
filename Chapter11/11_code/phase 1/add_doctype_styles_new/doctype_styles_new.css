@@ -1,0 +1,13 @@
+.link {
+	background-repeat: no-repeat;
+	background-position: left center; 
+	padding: 0 0 0 18px;
+}
+.pdf { background-image: url(icon-pdf.png); }
+.doc { background-image: url(icon-doc.png); }
+.mp3 { background-image: url(icon-mp3.png); }
+.zip { background-image: url(icon-zip.png); }
+/* 
+placeholder for your own styles 
+.filetype { background-image: url(icon-filetype.png); }
+*/

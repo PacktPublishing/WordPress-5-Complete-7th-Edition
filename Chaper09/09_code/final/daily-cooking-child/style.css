@@ -1,0 +1,9 @@
+/*
+Theme Name: Daily Cooking Child Theme
+Description: Child theme for the Daily Cooking Custom theme.
+Theme URI: http://nio.tips/
+Author: Karol K
+Author URI: http://karol.cc/
+Template: daily-cooking-custom
+*/
+@import url("../daily-cooking-custom/style.css");
