@@ -1,8 +1,9 @@
 # WordPress 5 Complete, Seventh Edition 
 
-<a href="https://www.packtpub.com/web-development/wordpress-5-complete-seventh-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11788.png" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/web-development/wordpress-5-complete-seventh-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532012"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11788.png" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/web-development/wordpress-5-complete-seventh-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [WordPress 5 Complete, Seventh Edition ](https://www.packtpub.com/web-development/wordpress-5-complete-seventh-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532012), published by Packt.
+
 
 **Build beautiful and feature-rich websites from scratch**
 
