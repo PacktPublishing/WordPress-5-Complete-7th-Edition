@@ -38,28 +38,51 @@ With the following software and hardware list you can run all code files present
 | 1 | WordPress 5.x | Windows, Mac OS X, and Linux (Any) |
 | 2 | XAMPP (the most current version) | Windows, Mac OS X, and Linux (Any) |
 | 3 | FileZilla (the most current version) | Windows, Mac OS X, and Linux (Any) |
-
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789532012_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-5-projects?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-787-28664-9)
+* Learn to Create WordPress Themes by Building 5 Projects [[Packt]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-5-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787286641 ) [[Amazon]](https://www.amazon.com/dp/1-787-28664-9)
 
 * Learn to Create WordPress Themes by Building 5 Projects [[Packt]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-5-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787286641 ) [[Amazon]](https://www.amazon.com/dp/1-849-51768-1)
 
+*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+
+*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Karol Król**
 is a WordPress developer, professional blogger, and writer. He has been building expertise in WordPress ever since his early years at the Silesian University of Technology (Poland), where he graduated with an MSc in computer science. Early in his career, he worked as a freelance website developer for several years. Later on, he decided to shift his interest toward popularizing WordPress as the perfect solution for all web-based projects, and devoted his time to growing his writing career. To this day, his articles have been featured on websites including About.com, MarketingProfs.com, SmashingMagazine.com, Adobe.com, CodeinWP.com, NIO.tips, and many more.
 
+****
+0
+
+****
+0
+
+****
+0
+
+****
+0
 
 ## Other books by the authors
-[](https://www.packtpub.com/application-development/wordpress-complete-sixth-edition?utm_source=github&utm_medium=repository&utm_campaign=)
+[WordPress Complete - Sixth Edition](https://www.packtpub.com/application-development/wordpress-complete-sixth-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787285705 )
 
-[](https://www.packtpub.com/web-development/wordpress-4x-complete?utm_source=github&utm_medium=repository&utm_campaign=)
+[WordPress 4.x Complete](https://www.packtpub.com/web-development/wordpress-4x-complete?utm_source=github&utm_medium=repository&utm_campaign=9781784390907 )
 
-[](https://www.packtpub.com/web-development/wordpress-37-complete-third-edition?utm_source=github&utm_medium=repository&utm_campaign=)
+[WordPress 3.7 Complete: Third Edition](https://www.packtpub.com/web-development/wordpress-37-complete-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781782162407 )
 
+[]()
+
+[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
