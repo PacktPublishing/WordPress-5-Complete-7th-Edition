@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789532012_ColorImages.pdf).
 
 ### Related products
-* Learn to Create WordPress Themes by Building 5 Projects [[Packt]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-5-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787286641) [[Amazon]](https://www.amazon.com/dp/1-787-28664-9)
+* Learn to Create WordPress Themes by Building 5 Projects [[Packt]](https://www.packtpub.com/web-development/learn-create-wordpress-themes-building-5-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787286641) [[Amazon]](https://www.amazon.com/dp/1787286649)
 
 * WordPress Plugin Development Cookbook [[Packt]](https://www.packtpub.com/web-development/wordpress-plugin-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849517683) [[Amazon]](https://www.amazon.com/dp/1787285707)
 
