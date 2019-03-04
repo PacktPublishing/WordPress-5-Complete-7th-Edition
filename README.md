@@ -21,7 +21,7 @@ This book covers the following exciting features:
 * Develop your own WordPress plugins and themes
 * Use WordPress to build websites that serve purposes other than blogs
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-53201-9) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789532019) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
