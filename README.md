@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # WordPress 5 Complete, Seventh Edition 
 
 <a href="https://www.packtpub.com/web-development/wordpress-5-complete-seventh-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532012"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11788.png" alt="" height="256px" align="right"></a>
